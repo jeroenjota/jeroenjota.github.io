@@ -1,1 +1,1 @@
-BAsci README.md for global jeroenjota Git Pages
+Basic README.md for global jeroenjota Git Pages
