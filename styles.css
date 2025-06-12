@@ -1,0 +1,57 @@
+table input {
+  border: 1px solid black;
+  border-radius: 5%;
+  margin-left: 10px;
+  text-align: right;
+  width: 100px;
+}
+.teams {
+  background-color: beige;
+  border: 1px solid blue;
+  padding: 12px;
+  margin: 10px;
+  width: 46%;
+  display: inline-block;
+  top: 0px;
+}
+.schema {
+  background-color: #f2f8b6;
+  border: 1px solid blue;
+  padding: 12px;
+  margin: 10px;
+}
+.stand {
+  background-color: rgb(158, 207, 240);
+  border: 1px solid blue;
+  padding: 12px;
+  margin: 10px;
+  width: 46%;
+  display: inline-block;
+  top: 0px;
+}
+
+.teamnaam {
+  background-color: white;
+}
+
+td.team {
+    min-width: 120px;
+    font-size: .9em;
+}
+
+.toprow {
+  background-color: cornflowerblue;
+  color: black;
+  text-align: left;
+  margin: 10px;
+}
+
+.maindiv {
+    background-color: darkgreen;
+}
+
+.maindiv h1 {
+    color:white;
+    text-align: center;
+    padding-top: 5px;
+}
